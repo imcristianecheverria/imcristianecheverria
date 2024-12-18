@@ -42,4 +42,4 @@ Ingeniero Informático apasionado por el desarrollo de software con amplio domin
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cristianecheverr%C3%AD%C3%A1/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:cristian.ignacioe@gmail.com)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/cristiaechever6)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter&logoColor=white)](https://x.com/lilNarciso_)
+[![X](https://img.shields.io/badge/-X-black?style=flat-square&logo=x&logoColor=white)](https://x.com/lilNarciso_)
