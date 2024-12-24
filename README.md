@@ -1,5 +1,4 @@
-# 👨‍💻 Cristian Echeverría | Ingeniero Informático | Chile 🇨🇱
-
+# 👨‍💻 Cristian Echeverría | Ingeniero Informático | Chile
 ## Perfil Profesional
 Ingeniero Informático apasionado por el desarrollo de software con amplio dominio en múltiples tecnologías y lenguajes de programación. Especializado en crear soluciones tecnológicas robustas y escalables.
 
