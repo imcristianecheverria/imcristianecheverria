@@ -2,6 +2,11 @@
 ## Perfil Profesional
 Ingeniero Informático apasionado por el desarrollo de software con amplio dominio en múltiples tecnologías y lenguajes de programación. Especializado en crear soluciones tecnológicas robustas y escalables.
 
+## 📫 Contacto Profesional
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cristianecheverr%C3%AD%C3%A1/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:cristian.ignacioe@gmail.com)
+[![Behance](https://img.shields.io/badge/-Behance-blue?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/cristiaechever6)
+
 ## 🚀 Tecnologías y Herramientas
 
 ### Lenguajes de Programación
@@ -36,8 +41,3 @@ Ingeniero Informático apasionado por el desarrollo de software con amplio domin
 - Optimización de rendimiento
 - Metodologías ágiles (SCRUM)
 - Integración continua y despliegue
-
-## 📫 Contacto Profesional
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cristianecheverr%C3%AD%C3%A1/)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:cristian.ignacioe@gmail.com)
-[![Behance](https://img.shields.io/badge/-Behance-blue?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/cristiaechever6)
